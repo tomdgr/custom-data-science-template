@@ -5,7 +5,7 @@ This Project is forked from [cookiecutter-data-science](http://drivendata.github
 
 This template is also heabily inspired from [Equinors´s Data Science template ](https://github.com/equinor/data-science-template)
 
-So its a mixture of the two
+So this is a mixture of the two with some personal preferences added.
 ### Requirements to use the cookiecutter template:
 -----------
  - Python 2.7 or 3.5+
