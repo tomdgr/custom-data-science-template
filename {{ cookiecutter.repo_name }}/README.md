@@ -17,7 +17,6 @@
       - [Testing](#testing)
       - [Linting](#linting)
 
-
 # How to use this template
 
 ### Template development environment
